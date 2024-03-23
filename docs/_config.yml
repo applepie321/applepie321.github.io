@@ -42,7 +42,7 @@ plugins:
 #
 exclude:
    - docs/
-#   - .jekyll-cache/
+   - docs/_posts/
 #   - gemfiles/
 #   - Gemfile
 #   - Gemfile.lock
